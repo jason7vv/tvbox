@@ -481,6 +481,13 @@
       "filterable": 0
     }
   ],
+  "parses": [
+    {
+      "name": "量子",
+      "type": 3,
+      "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+    }
+  ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
