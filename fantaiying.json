@@ -17,11 +17,12 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "categories": [
         "战争片",
         "国产剧",
-        "战争"
+        "战争",
+        "连续剧"
       ]
     },
     {
