@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "豆",
-      "name": "夸父有问题的看公众号推文【神秘的哥哥们】",
+      "name": "【叮噹貓】",
       "type": 3,
       "api": "csp_DouDouGuard",
       "searchable": 0,
@@ -15,7 +15,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽叮噹┃4K弹幕",
       "type": 3,
       "api": "csp_WoGGGuard",
       "searchable": 1,
