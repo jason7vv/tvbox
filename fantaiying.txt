@@ -10,7 +10,8 @@
       "filterable": 0,
       "ext": "zhanzheng",
       "categories": [
-        "zhanzheng"
+        "战争",
+        "电影"
       ]
     },
     {
