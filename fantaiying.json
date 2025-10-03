@@ -1,29 +1,23 @@
 {
   "sites": [
     {
+      "key": "豆",
+      "name": "夸父有问题的看公众号推文【神秘的哥哥们】",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGGGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "[object Object]"
-    },
-    {
-      "key": "liangzi",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "战争片",
-        "国产剧",
-        "战争",
-        "连续剧"
-      ]
     },
     {
       "key": "YGP",
@@ -32,7 +26,7 @@
       "api": "csp_YGPGuard",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "alllive",
@@ -41,7 +35,7 @@
       "api": "csp_AllliveGuard",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "seed",
@@ -50,7 +44,7 @@
       "api": "csp_SeedhubGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5"
     },
     {
@@ -60,7 +54,7 @@
       "api": "csp_JpysGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "厂长",
@@ -69,7 +63,7 @@
       "api": "csp_NewCzGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "糯米",
@@ -125,7 +119,7 @@
       "api": "csp_LiteAppleGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "低端",
@@ -487,10 +481,10 @@
       "filterable": 0
     },
     {
-      "key": "modu",
-      "name": "魔都",
+      "key": "liangzi",
+      "name": "量子",
       "type": 0,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
