@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "dingdang",
-      "name": "📺叮噹貓影視",
+      "key": "叮噹",
+      "name": "📺叮噹影視",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
@@ -204,4 +204,5 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
+
 
