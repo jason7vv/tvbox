@@ -2,69 +2,65 @@
     "urls": [
         {
             "url": "https://tvbox.852688.xyz/ymfan.json",
-            "name": "🚀1-YM饭"
+            "name": "🚀叮噹影視"
         },
         {
             "url": "http://www.饭太硬.com/tv/",
-            "name": "🚀2-饭太硬推荐"
+            "name": "🚀飯太硬"
         },
         {
             "url": "https://肥猫.com",
-            "name": "🚀3-肥猫"
+            "name": "🚀肥貓"
         },
         {
             "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "🚀4-小米"
+            "name": "🚀小米"
         },
 
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀5-王二小"
+            "name": "🚀小二"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
-            "name": "🚀6-FongMI线路"
+            "name": "🚀紅米"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀7-巧计线路"
+            "name": "🚀巧計"
         },
         {
             "url": "https://weixine.net/ysc.json",
-            "name": "🚀8-运输车路"
+            "name": "🚀運輸"
         },
         {
             "url": "https://100km.top/0",
-            "name": "🚀9-骚 0线路"
+            "name": "🚀騷零"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀10-高天流云js"
-        },
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "🚀11-高天流云 XYQ"
+            "name": "🚀流雲"
         },
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "🚀12-影探线路"
+            "name": "🚀影探"
         },
 
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀13-南风"
+            "name": "🚀南風"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
-            "name": "🚀14-小马线路"
+            "name": "🚀小馬"
         },
         {
             "url": "https://www.wya6.cn/tv/yc.json",
-            "name": "🚀15-无意线路"
+            "name": "🚀無意"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀16-潇洒哥线路"
+            "name": "🚀瀟灑"
         }
     ]
 }
