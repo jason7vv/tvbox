@@ -77,16 +77,6 @@
       "ext": "[object Object]"
     },
     {
-      "key": "鲸鱼",
-      "name": "👀鲸鱼",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
-    },
-    {
       "key": "原创",
       "name": "☀原创",
       "type": 3,
@@ -144,16 +134,6 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="
     },
     {
-      "key": "奥特",
-      "name": "🏝奥特",
-      "type": 3,
-      "api": "csp_AueteGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://auete.com/"
-    },
-    {
       "key": "荐片",
       "name": "🐭荐片",
       "type": 3,
@@ -177,15 +157,6 @@
       "name": "🎀异界",
       "type": 3,
       "api": "csp_YsjGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Anime1",
-      "name": "🐾動漫",
-      "type": 3,
-      "api": "csp_Anime1Guard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
