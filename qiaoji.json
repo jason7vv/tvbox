@@ -1,13 +1,13 @@
 {
   "sites": [
     {
-      "key": "战争剧",
-      "name": "战争剧",
+      "key": "叮噹",
+      "name": "叮噹影視②",
       "type": 3,
       "api": "csp_Qiji",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
     },
     {
@@ -623,6 +623,9 @@
         }
       ]
     }
+  ],
+  "ads": [
+    "43.248.128.138"
   ],
   "wallpaper": "https://bing.img.run/uhd.php",
   "spider": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01"
