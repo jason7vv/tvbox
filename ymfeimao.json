@@ -40,16 +40,6 @@
       "ext": "[object Object]"
     },
     {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.wogg.one/"
-    },
-    {
       "key": "潮流",
       "name": "🏜┃潮流┃APP",
       "type": 3,
