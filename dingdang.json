@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "叮当",
-      "name": "🧲叮当",
+      "key": "dingdang",
+      "name": "📺叮噹貓",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
@@ -173,15 +173,6 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "Dm84",
-      "name": "🚌巴士",
-      "type": 3,
-      "api": "csp_Dm84Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "Ysj",
       "name": "🎀异界",
       "type": 3,
@@ -192,32 +183,12 @@
     },
     {
       "key": "Anime1",
-      "name": "🐾日本",
+      "name": "🐾動漫",
       "type": 3,
       "api": "csp_Anime1Guard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "超全",
-      "name": "⚽超全",
-      "type": 3,
-      "api": "csp_ZbzGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠",
-      "type": 3,
-      "api": "csp_KkSsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
     },
     {
       "key": "UC",
@@ -228,39 +199,10 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "[object Object]"
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米搜",
-      "type": 3,
-      "api": "csp_MIPanSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "夸搜",
-      "name": "😻夸搜",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "YiSo",
-      "name": "😹易搜",
-      "type": 3,
-      "api": "csp_YiSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
     }
   ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
+
 
