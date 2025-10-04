@@ -42,7 +42,7 @@
     },
     {
       "key": "梦回",
-      "name": "🏈┃梦回┃APP",
+      "name": "🏈┃梦回┃",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "冷心",
-      "name": "🧊┃冷心┃APP",
+      "name": "🧊┃冷心┃",
       "type": 3,
       "api": "csp_AppMuou",
       "searchable": 1,
@@ -62,7 +62,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "🥇️┃金牌┃影视",
+      "name": "🥇️┃金牌┃",
       "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "csp_Wwys",
-      "name": "🌾️┃农民┃影视",
+      "name": "🌾️┃农民┃",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "csp_Xlys",
-      "name": "🏔️┃修罗┃磁力",
+      "name": "🏔️┃修罗┃",
       "type": 3,
       "api": "csp_Xlys",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "csp_Tvyb",
-      "name": "☁️️┃云播┃影视",
+      "name": "☁️️┃云播┃",
       "type": 3,
       "api": "csp_Tvyb",
       "searchable": 1,
@@ -100,7 +100,7 @@
     },
     {
       "key": "csp_Qiyou",
-      "name": "🥝┃奇优┃影视",
+      "name": "🥝┃奇优┃",
       "type": 3,
       "api": "csp_Qiyou",
       "searchable": 1,
@@ -109,7 +109,7 @@
     },
     {
       "key": "荐片",
-      "name": "🎬┃荐片┃影视",
+      "name": "🎬┃荐片┃",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "csp_Quanwk",
-      "name": "👀┃全看┃影视",
+      "name": "👀┃全看┃",
       "type": 3,
       "api": "csp_Quanwk",
       "searchable": 1,
@@ -129,7 +129,7 @@
     },
     {
       "key": "csp_J",
-      "name": "🌎┃饺子┃外剧",
+      "name": "🌎┃饺子┃",
       "type": 3,
       "api": "csp_Jiaozi",
       "searchable": 1,
@@ -138,7 +138,7 @@
     },
     {
       "key": "csp_SaoHuo",
-      "name": "🔥┃火火┃影视",
+      "name": "🔥┃火火┃",
       "type": 3,
       "api": "csp_SaoHuo",
       "searchable": 1,
@@ -148,7 +148,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉┃瓜子┃影视",
+      "name": "🍉┃瓜子┃",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎┃苹果┃影视",
+      "name": "🍎┃苹果┃",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -166,7 +166,7 @@
     },
     {
       "key": "厂长",
-      "name": "🏭┃厂长┃影视",
+      "name": "🏭┃厂长┃",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -176,7 +176,7 @@
     },
     {
       "key": "csp_SP360",
-      "name": "📺┃360┃官源",
+      "name": "📺┃360┃",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
