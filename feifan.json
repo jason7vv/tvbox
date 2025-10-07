@@ -1,5 +1,5 @@
 {
-  "spider": "https://example.com/spider.jar",
+  "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67",
   "logo": "https://example.com/logo.png",
   "wallpaper": "https://example.com/wallpaper.jpg",
   "sites": [
@@ -12,7 +12,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "extType": "jsont",
+      "extType": "text",
       "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
     }
   ],
