@@ -21,6 +21,16 @@
       "ext": "[object Object]"
     },
     {
+      "key": "多多弹幕",
+      "name": "🪅多多┃4K弹幕",
+      "type": 3,
+      "api": "csp_DuoDuoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[object Object]"
+    },
+    {
       "key": "seed",
       "name": "💡聚剧",
       "type": 3,
@@ -175,3 +185,4 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
+
