@@ -1,32 +1,49 @@
 {
+  "spider": "http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf",
+  "logo": "https://example.com/logo.png",
+  "wallpaper": "https://example.com/wallpaper.jpg",
   "sites": [
     {
-      "key": "dingdang",
       "name": "dingdang",
+      "key": "dingdang",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM=",
-      "categories": [
-        "战争",
-        "电视剧"
-      ]
+      "extType": "text",
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
     },
     {
-      "key": "222",
-      "name": "222",
+      "name": "6v",
+      "key": "6v",
       "type": 3,
-      "api": "csp_AppTTGuard",
+      "api": "csp_SixVGuard",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
-      "ext": "uqGL1bNENExT9fFAy5mE5qU=",
-      "categories": [
-        "战争",
-        "电视剧"
-      ]
+      "extType": "text",
+      "ext": "https://www.xb6v.com/"
+    }
+  ],
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "http://xhztv.top/xhz/live.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      }
+    ]
+  },
+  "parses": [
+    {
+      "name": "示例解析",
+      "type": 0,
+      "url": "https://xxx.xxx?jx=",
+      "headers": {}
     }
   ],
   "flags": [
@@ -36,7 +53,5 @@
     "iqiyi",
     "qiyi",
     "letv"
-  ],
-  "wallpaper": "https://example.com/wallpaper.jpg",
-  "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
+  ]
 }
