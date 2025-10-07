@@ -14,7 +14,6 @@
       "filterable": 1,
       "extType": "text",
       "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
-
     },
     {
       "name": "6v",
@@ -29,24 +28,8 @@
       "ext": "https://www.xb6v.com/"
     }
   ],
-  "lives": {
-    "undefined": [
-      {
-        "name": "live",
-        "url": "http://xhztv.top/xhz/live.txt",
-        "logo": "https://epg.112114.xyz/logo/{name}.png",
-        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
-      }
-    ]
-  },
-  "parses": [
-    {
-      "name": "示例解析",
-      "type": 0,
-      "url": "https://xxx.xxx?jx=",
-      "headers": {}
-    }
-  ],
+  "lives": {},
+  "parses": [],
   "flags": [
     "youku",
     "qq",
