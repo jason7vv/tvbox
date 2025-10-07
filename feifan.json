@@ -1,35 +1,26 @@
 {
-  "spider": "http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf",
-  "logo": "https://example.com/logo.png",
-  "wallpaper": "https://example.com/wallpaper.jpg",
   "sites": [
     {
-      "name": "dingdang",
       "key": "dingdang",
+      "name": "dingdang",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "extType": "text",
       "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
     },
     {
-      "name": "6v",
       "key": "6v",
+      "name": "6v",
       "type": 3,
       "api": "csp_SixVGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "extType": "text",
       "ext": "https://www.xb6v.com/"
     }
   ],
-  "lives": {},
-  "parses": [],
   "flags": [
     "youku",
     "qq",
@@ -37,5 +28,7 @@
     "iqiyi",
     "qiyi",
     "letv"
-  ]
+  ],
+  "wallpaper": "https://example.com/wallpaper.jpg",
+  "spider": "http://hello.xn--z7x900a.com/PandaQ251006.png;md5;be9654326035e9a2c43563d3591c2daf"
 }
