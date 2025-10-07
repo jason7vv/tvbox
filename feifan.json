@@ -18,7 +18,7 @@
       "name": "111test",
       "key": "111",
       "type": 3,
-      "api": "https://svip.ffzyplay.com/?url=",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
