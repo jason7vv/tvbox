@@ -1,35 +1,34 @@
 {
-  "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67",
-  "logo": "https://example.com/logo.png",
-  "wallpaper": "https://example.com/wallpaper.jpg",
   "sites": [
     {
-      "name": "dingdang",
       "key": "dingdang",
+      "name": "dingdang",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "extType": "text",
-      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM=",
+      "categories": [
+        "战争",
+        "电视剧"
+      ]
     },
     {
-      "name": "222",
       "key": "222",
+      "name": "222",
       "type": 3,
       "api": "csp_AppTTGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "extType": "text",
-      "ext": "uqGL1bNENExT9fFAy5mE5qU="
+      "ext": "uqGL1bNENExT9fFAy5mE5qU=",
+      "categories": [
+        "战争",
+        "电视剧"
+      ]
     }
   ],
-  "lives": {},
-  "parses": [],
   "flags": [
     "youku",
     "qq",
@@ -37,5 +36,7 @@
     "iqiyi",
     "qiyi",
     "letv"
-  ]
+  ],
+  "wallpaper": "https://example.com/wallpaper.jpg",
+  "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
