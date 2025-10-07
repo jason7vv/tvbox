@@ -4,47 +4,20 @@
   "wallpaper": "https://example.com/wallpaper.jpg",
   "sites": [
     {
-      "key": "one",
-      "name": "One",
+      "name": "dingdang",
+      "key": "dingdang",
       "type": 3,
-      "api": "csp_Csp",
+      "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": ""
-    },
-    {
-      "name": "111test",
-      "key": "111",
-      "type": 3,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "extType": "json",
-      "ext": ""
+      "extType": "text",
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
     }
   ],
-  "lives": {
-    "undefined": [
-      {
-        "name": "live",
-        "url": "http://xhztv.top/xhz/live.txt",
-        "logo": "https://epg.112114.xyz/logo/{name}.png",
-        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
-      }
-    ]
-  },
-  "parses": [
-    {
-      "name": "示例解析",
-      "type": 0,
-      "url": "https://svip.ffzyplay.com/?url=",
-      "headers": {}
-    }
-  ],
+  "lives": {},
+  "parses": [],
   "flags": [
     "youku",
     "qq",
