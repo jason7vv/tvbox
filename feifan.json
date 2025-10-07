@@ -3,11 +3,11 @@
     {
       "key": "111",
       "name": "111",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "战争",
         "电视剧"
