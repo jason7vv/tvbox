@@ -29,6 +29,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "天涯",
+      "name": "天涯",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电视剧"
+      ]
     }
   ]
 }
