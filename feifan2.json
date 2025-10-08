@@ -39,7 +39,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "国产剧"
+        "国产剧",
+        "战争"
       ]
     },
     {
@@ -55,10 +56,10 @@
       "key": "maomi",
       "name": "猫咪",
       "type": 1,
-      "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
+      "api": "http://zy.xmm.hk/api.php/provide/vod/from/qq/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ]
 }
