@@ -1,163 +1,20 @@
 {
-    "cache_time": 9200,
-    "api_site": {
-        "api_3": {
-            "name": "360",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "detail": "https://360zy.com"
-        },
-        "api_4": {
-            "name": "TK",
-            "api": "https://ckzy.me/api.php/provide/vod",
-            "detail": "https://ckzy.me"
-        },
-        "api_5": {
-            "name": "U酷",
-            "api": "https://api.ukuapi.com/api.php/provide/vod",
-            "detail": "https://api.ukuapi.com"
-        },
-        "api_6": {
-            "name": "U酷",
-            "api": "https://api.ukuapi88.com/api.php/provide/vod",
-            "detail": "https://api.ukuapi88.com"
-        },
-        "api_7": {
-            "name": "ikun",
-            "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "detail": "https://ikunzyapi.com"
-        },
-        "api_13": {
-            "name": "卧龙",
-            "api": "https://wolongzyw.com/api.php/provide/vod",
-            "detail": "https://wolongzyw.com"
-        },
-        "api_14": {
-            "name": "天涯",
-            "api": "https://tyyszy.com/api.php/provide/vod",
-            "detail": "https://tyyszy.com"
-        },
-        "api_15": {
-            "name": "如意",
-            "api": "https://cj.rycjapi.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_16": {
-            "name": "猫咪",
-            "api": "https://zy.xmm.hk/api.php/provide/vod",
-            "detail": "https://zy.xmm.hk"
-        },
-        "api_18": {
-            "name": "无尽",
-            "api": "https://api.wujinapi.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_19": {
-            "name": "无尽2",
-            "api": "https://api.wujinapi.me/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_21": {
-            "name": "旺旺",
-            "api": "https://wwzy.tv/api.php/provide/vod",
-            "detail": "https://wwzy.tv"
-        },
-        "api_22": {
-            "name": "旺旺2",
-            "api": "https://api.wwzy.tv/api.php/provide/vod",
-            "detail": "https://api.wwzy.tv"
-        },
-        "api_23": {
-            "name": "暴风",
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_24": {
-            "name": "最大",
-            "api": "http://zuidazy.me/api.php/provide/vod",
-            "detail": "http://zuidazy.me"
-        },
-        "api_25": {
-            "name": "最大2",
-            "api": "https://api.zuidapi.com/api.php/provide/vod",
-            "detail": "https://api.zuidapi.com"
-        },
-        "api_26": {
-            "name": "樱花",
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_29": {
-            "name": "天堂",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-            "detail": "http://caiji.dyttzyapi.com"
-        },
-        "api_32": {
-            "name": "神马",
-            "api": "https://api.1080zyku.com/inc/apijson.php/",
-            "detail": "https://api.1080zyku.com"
-        },
-        "api_34": {
-            "name": "红牛",
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-            "detail": "https://www.hongniuzy2.com"
-        },
-        "api_35": {
-            "name": "茅台",
-            "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-            "detail": "https://caiji.maotaizy.cc"
-        },
-        "api_37": {
-            "name": "豆瓣",
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod",
-            "detail": "https://caiji.dbzy.tv"
-        },
-        "api_38": {
-            "name": "豆瓣",
-            "api": "https://dbzy.tv/api.php/provide/vod",
-            "detail": "https://dbzy.tv"
-        },
-        "api_39": {
-            "name": "豪华",
-            "api": "https://hhzyapi.com/api.php/provide/vod",
-            "detail": "https://hhzyapi.com"
-        },
-        "api_40": {
-            "name": "速博",
-            "api": "https://subocaiji.com/api.php/provide/vod",
-            "detail": ""
-        },
-        "api_45": {
-            "name": "非凡",
-            "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-            "detail": "https://cj.ffzyapi.com"
-        },
-        "api_48": {
-            "name": "魔都",
-            "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-            "detail": "https://caiji.moduapi.cc"
-        },
-        "api_49": {
-            "name": "魔都2",
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "detail": "https://www.mdzyapi.com"
-        },
-        "ffzynew": {
-            "name": "非凡",
-            "api": "https://api.ffzyapi.com/api.php/provide/vod",
-            "detail": "http://ffzy5.tv"
-        },
-        "jisu": {
-            "name": "极速",
-            "api": "https://jszyapi.com/api.php/provide/vod",
-            "detail": "https://jszyapi.com"
-        },
-        "mdzy": {
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "name": "魔都"
-        },
-        "hongniuziyuan": {
-            "api": "https://www.hongniuzy3.com/api.php/provide/vod",
-            "name": "红牛"
-        }
+  "sites": [
+    {
+      "key": "111",
+      "name": "111",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
+  ],
+  "parses": [
+    {
+      "name": "22",
+      "type": 1,
+      "url": "https://www.360jiexi.com/player/?url="
+    }
+  ]
 }
