@@ -7,13 +7,25 @@
       "api": "https://360zyzz.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "iKUN",
       "name": "Ikun",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "连续剧"
+      ]
+    },
+    {
+      "key": "wolong",
+      "name": "卧龙",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
