@@ -1,20 +1,22 @@
 {
   "sites": [
     {
-      "key": "111",
-      "name": "111",
+      "key": "360",
+      "name": "360",
       "type": 1,
       "api": "https://360zyzz.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }
-  ],
-  "parses": [
+    },
     {
-      "name": "22",
+      "key": "iKUN",
+      "name": "Ikun",
       "type": 1,
-      "url": "https://www.360jiexi.com/player/?url="
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ]
 }
