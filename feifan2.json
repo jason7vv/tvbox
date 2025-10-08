@@ -56,10 +56,19 @@
       "key": "maomi",
       "name": "猫咪",
       "type": 1,
-      "api": "http://zy.xmm.hk/api.php/provide/vod/from/qq/?ac=list",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "旺旺",
+      "name": "旺旺",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ]
 }
