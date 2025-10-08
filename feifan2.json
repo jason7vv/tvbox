@@ -39,8 +39,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "电视剧"
+        "国产剧"
       ]
+    },
+    {
+      "key": "如意",
+      "name": "如意",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "maomi",
+      "name": "猫咪",
+      "type": 1,
+      "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ]
 }
