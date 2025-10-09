@@ -4,6 +4,11 @@
             "url": "https://tvbox.852688.xyz/dingdang.json",
             "name": "🚀叮噹"
         },
+        
+        {
+            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.json",
+            "name": "🚀CJ测试"
+        },
         {
             "url": "https://tvbox.852688.xyz/feimao.json",
             "name": "🚀肥貓"
