@@ -177,9 +177,9 @@
       "group": "叮噹直播",
       "channels": [
         {
-          "name": "叮噹",
+          "name": "TVB",
           "urls": [
-            "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+            "http://erp.giihgtidg.com:8080/live/jade01.m3u8"
           ]
         }
       ]
