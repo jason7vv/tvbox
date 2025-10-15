@@ -172,19 +172,6 @@
       "ext": "[object Object]"
     }
   ],
-  "lives": [
-    {
-      "group": "叮噹直播",
-      "channels": [
-        {
-          "name": "叮噹",
-          "urls": [
-            "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
-          ]
-        }
-      ]
-    }
-  ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
