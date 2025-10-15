@@ -378,16 +378,10 @@
   ],
   "lives": [
     {
-      "group": "redirect",
+      "group": "111",
       "channels": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext="
-          ]
-        },
-        {
-          "name": "888",
+          "name": "1",
           "urls": [
             "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
           ]
