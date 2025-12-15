@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "叮噹影視",
-      "name": "叮噹影視",
+      "name": "📺叮噹影視",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
