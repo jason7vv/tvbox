@@ -10,7 +10,6 @@
       "filterable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
     },
-    
     {
       "key": "玩偶",
       "name": "👽玩偶",
@@ -19,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "[object Object]"
+      "ext": "[objectObject]"
     },
     {
       "key": "seed",
@@ -75,7 +74,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "[object Object]"
+      "ext": "[objectObject]"
     },
     {
       "key": "原创",
@@ -170,13 +169,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "[object Object]"
+      "ext": "[objectObject]"
     }
   ],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "spider": "https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
 }
-
-
-
-
