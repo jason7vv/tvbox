@@ -7,8 +7,12 @@
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg==",
+      "categories": [
+        "电影",
+        "电视剧"
+      ]
     },
     {
       "key": "玩偶",
