@@ -210,6 +210,16 @@
       "ext": "[object Object]"
     },
     {
+      "key": "永乐",
+      "name": "🍰永乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[object Object]"
+    },
+    {
       "key": "UC",
       "name": "🌈优汐",
       "type": 3,
