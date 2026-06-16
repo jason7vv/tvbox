@@ -1,6 +1,14 @@
 {
     "urls": [
         {
+            "url": "https://tvbox.852688.xyz/dingdang.json",
+            "name": "🚀叮噹"
+        },
+        {
+            "url": "http://www.饭太硬.cc/tv",
+            "name": "🚀飯硬"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🚀南風"
         }
